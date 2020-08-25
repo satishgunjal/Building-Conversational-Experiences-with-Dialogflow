@@ -10,6 +10,6 @@ My notes of this Coursera course.
 ## [Graded Quiz: Intents and Entities](/images/Graded_Quiz_Intents_and_Entities.png)
 
 ## [Qwiklabs – Setup fulfilment and adding context for your pizza ordering agent](qwiklabs/PizzaBot_Lab2.zip)
-## [Qwiklabs Function Ssource – Setup fulfilment and adding context for your pizza ordering agent](qwiklabs/function-source_Lab2.zip)
+## [Qwiklabs Function Source – Setup fulfilment and adding context for your pizza ordering agent](qwiklabs/function-source_Lab2.zip)
 
 ## [Graded Quiz: Context and Fulfillment](/images/Graded_Quiz_Context_and_Fulfillment.png)
