@@ -14,7 +14,12 @@
 # Week 1
 * [Graded Quiz: About Dialogflow](/images/Graded_Quiz_About_Dialogflow.png)
 * [Qwiklabs- Define intents and entities for your pizza ordering conversational agent](qwiklabs/PizzaBot_Lab1.zip)
+  - Build a conversational agent for a fictional pizza shop that will let users place orders
+  - Define intents for a pizza-ordering use case to match typical user queries
+  - Identify entities to extract data from user queries
 * [Graded Quiz: Intents and Entities](/images/Graded_Quiz_Intents_and_Entities.png)
 * [Qwiklabs – Setup fulfilment and adding context for your pizza ordering agent](qwiklabs/PizzaBot_Lab2.zip)
-* [Qwiklabs Function Source – Setup fulfilment and adding context for your pizza ordering agent](qwiklabs/function-source_Lab2.zip)
+  - Add input and output context to the order.pizza intent to maintain continuity
+  - Setup fulfilment as Cloud Functions code for the agent to be able to store orders in Datastore
+  - [Function Source](qwiklabs/function-source_Lab2.zip)
 * [Graded Quiz: Context and Fulfillment](/images/Graded_Quiz_Context_and_Fulfillment.png)
