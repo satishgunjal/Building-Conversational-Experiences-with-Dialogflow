@@ -2,7 +2,7 @@
 My notes of this Coursera course.
 
 # Course Slides
-* [Course Intro](course_slides/0_ Course Intro.pdf)
+* [Course Intro](course_slides/0_%20Course%20Intro.pdf)
 * [Building Conversational Experiences with Dialogflow](course_slides/1_ Building Conversational Experiences with Dialogflow.pdf)
 * [Defining Intents and Entities](course_slides/2_ Defining Intents and Entities.pdf)
 * [Maintaining Context and Taking Action](course_slides/3_ Maintaining Context and Taking Action.pdf)
