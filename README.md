@@ -18,14 +18,14 @@
   - Build a conversational agent for a fictional pizza shop that will let users place orders
   - Define intents for a pizza-ordering use case to match typical user queries
   - Identify entities to extract data from user queries
-  - [Agent source](qwiklabs/PizzaBot_Lab1.zip)
+  - [PizzaBot agent source code](qwiklabs/PizzaBot_Lab1.zip)
 * Graded Quiz
   - [Intents and Entities](/images/Graded_Quiz_Intents_and_Entities.png)
 * Qwiklabs – Setup fulfilment and adding context for your pizza ordering agent
   - Add input and output context to the order.pizza intent to maintain continuity
   - Setup fulfilment as Cloud Functions code for the agent to be able to store orders in Datastore
-  - [Agent source](qwiklabs/PizzaBot_Lab2.zip)
-  - [Function source](qwiklabs/function-source_Lab2.zip)
+  - [PizzaBot agent source code](qwiklabs/PizzaBot_Lab2.zip)
+  - [PizzaBot agent function source](qwiklabs/function-source_Lab2.zip)
 * Graded Quiz
   - [Context and Fulfillment](/images/Graded_Quiz_Context_and_Fulfillment.png)
   
@@ -34,7 +34,7 @@
   - Use Cloud Datalab, Python, data science libraries, and Google Natural Language API machine learning technology to transform an unstructured text document into a structured knowledge base in Cloud Datastore
   - Use Dialogflow to build a conversational agent that can respond to questions about the HR manual
   - Populate entities from Datastore into your Dialogflow agent
-  - [Agent source](qwiklabs/HR_ChatBot_Lab3.zip)
+  - [HR_ChatBot agent source code](qwiklabs/HR_ChatBot_Lab3.zip)
   - Pre-Processing Notebooks
     Let's first review the purpose of each of the notebooks. They are used to extract information from the HR Manual and create a knowledge base that is used by the chatbot to answer questions. Each of them will be run one time in the order listed here:
     - [ProcessHandbook.ipynb](qwiklabs/ProcessHandbook_Lab3.ipynb) performs "semi-structured" analysis on the HR Manual text file. It alternately extracts topic "headings" and associated "policy text" from the file and stores these as key-value pairs in Cloud Datastore to give the chatbot a basic vocabulary.
