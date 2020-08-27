@@ -41,4 +41,6 @@
     - [ProcessSynonyms.ipynb](qwiklabs/ProcessSynonyms_Lab3.ipynb) uses several Python data science libraries and the Cloud Natural Language API to generate synonyms for topics, which gives the chatbot an expanded vocabulary.
     - [DialogFlow.ipynb](qwiklabs/DialogFlow_Lab3.ipynb) uses Dialogflow's "Entity" API to write the topics to Dialogflow's Entity module, which makes these words available to the chatbot as a data type.
 * Graded Quiz
-- [Taking Your Chatbot Production.png](images/Graded_Quiz_Taking_Your_Chatbot_Production.png)
+  - [Taking Your Chatbot Production.png](images/Graded_Quiz_Taking_Your_Chatbot_Production.png)
+
+![Certificate_Building_Conversational_Experiences_with_Dialogflow](images/Certificate_Building_Conversational_Experiences_with_Dialogflow.png)
