@@ -42,5 +42,6 @@
     - [DialogFlow.ipynb](qwiklabs/DialogFlow_Lab3.ipynb) uses Dialogflow's "Entity" API to write the topics to Dialogflow's Entity module, which makes these words available to the chatbot as a data type.
 * Graded Quiz
   - [Taking Your Chatbot Production.png](images/Graded_Quiz_Taking_Your_Chatbot_Production.png)
-
+  
+# Course Certificate
 ![Certificate_Building_Conversational_Experiences_with_Dialogflow](images/Certificate_Building_Conversational_Experiences_with_Dialogflow.png)
